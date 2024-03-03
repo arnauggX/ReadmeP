@@ -1,20 +1,17 @@
 # Hola, soy Arnau Gil 👋
 
-## Currículum
+## Sobre mí
 
 - 🎓 Actualmente estudiante de DAW (Desarrollo de Aplicaciones Web) de 1er año.
 - 💻 Experiencia en Java, HTML, y CSS.
 - 🚀 Apasionado por el desarrollo web y la programación.
 
-## Estética
+## Conocimientos
 
-- ✨ Añadiendo elementos visuales estéticos al README, como gifs, colores y imágenes.
-
-## Lenguajes y Tecnologías
-
-- 🖥️ Conocimientos en: Java, HTML, CSS.
-- 🚧 Explorando: [Nuevas tecnologías que estás aprendiendo].
-
+- **Java:** Dominio en desarrollo de aplicaciones con Java.
+- **HTML y CSS:** Experiencia en la creación de páginas web atractivas y funcionales.
+- **SQL:** Conocimientos en bases de datos y consulta de datos.
+- **GitHub:** Experiencia en control de versiones y colaboración en proyectos.
 ## Contribuciones y Actividad
 
 - 📈 [Gráfico de contribuciones]
