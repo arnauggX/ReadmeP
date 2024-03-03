@@ -13,12 +13,10 @@
 - **SQL:** 📊 Manejo de bases de datos y consultas de datos.
 - **GitHub:** 🐙 Control de versiones y colaboración en proyectos.
 
-## Contribuciones y Actividad
+## Conéctate conmigo
 
-- 📈 [Gráfico de contribuciones]
-- 📊 [Gráfico de actividad]
-
-## Perfil GitHub
-
-![GitHub Seguidores](https://img.shields.io/github/followers/arnaugil?style=social) ![GitHub Estrellas](https://img.shields.io/github/stars/arnaugil?style=social)
+- [LinkedIn](https://www.linkedin.com/in/Arnau): 🔗 ¡Conéctate conmigo en LinkedIn!
+- [Twitter](https://twitter.com/Arnau): 🐦 Sígueme en Twitter para las últimas actualizaciones.
+- [Instagram](https://www.instagram.com/Arnau): 📸 Comparto momentos en Instagram.
+- [Facebook](https://www.facebook.com/Arnau): 👍 ¡Encuéntrame en Facebook!
 
