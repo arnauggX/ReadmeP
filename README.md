@@ -8,10 +8,11 @@
 
 ## Conocimientos
 
-- **Java:** Dominio en desarrollo de aplicaciones con Java.
-- **HTML y CSS:** Experiencia en la creación de páginas web atractivas y funcionales.
-- **SQL:** Conocimientos en bases de datos y consulta de datos.
-- **GitHub:** Experiencia en control de versiones y colaboración en proyectos.
+- **Java:** 🚀 Desarrollo de aplicaciones robustas y escalables.
+- **HTML y CSS:** 🌐 Creación de páginas web atractivas y funcionales.
+- **SQL:** 📊 Manejo de bases de datos y consultas de datos.
+- **GitHub:** 🐙 Control de versiones y colaboración en proyectos.
+
 ## Contribuciones y Actividad
 
 - 📈 [Gráfico de contribuciones]
