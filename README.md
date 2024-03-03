@@ -15,8 +15,7 @@
 
 ## Conéctate conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/Arnau): 🔗 ¡Conéctate conmigo en LinkedIn!
-- [Twitter](https://twitter.com/Arnau): 🐦 Sígueme en Twitter para las últimas actualizaciones.
-- [Instagram](https://www.instagram.com/Arnau): 📸 Comparto momentos en Instagram.
-- [Facebook](https://www.facebook.com/Arnau): 👍 ¡Encuéntrame en Facebook!
-
+- [LinkedIn](https://www.linkedin.com/in/tu_perfil): [![LinkedIn](https://i.imgur.com/mPp2Kg2.png)](https://www.linkedin.com/in/tu_perfil)
+- [Twitter](https://twitter.com/tu_usuario): [![Twitter](https://i.imgur.com/SGzdl1u.png)](https://twitter.com/tu_usuario)
+- [Instagram](https://www.instagram.com/tu_usuario): [![Instagram](https://i.imgur.com/Nof6s8y.png)](https://www.instagram.com/tu_usuario)
+- [Facebook](https://www.facebook.com/tu_usuario): [![Facebook](https://i.imgur.com/uFw9hQN.png)](https://www.facebook.com/tu_usuario)
